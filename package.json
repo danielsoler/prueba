@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsoler/prueba.git"
+  },
+  "author": "Daniel Soler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsoler/prueba/issues"
+  },
+  "homepage": "https://github.com/danielsoler/prueba#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
+  }
+}
